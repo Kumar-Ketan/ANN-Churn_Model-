@@ -1,9 +1,0 @@
-pandas
-matplotlib
-numpy
-TensorFlow==2.15.0
-scikit-learn
-seaborn
-ipykernel
-streamlit
-tensorboard
