@@ -113,6 +113,6 @@ Thanks to open-source datasets and libraries that made this project possible.
 🚀 Connect With Me
 
 📧 Email: kketan6205@gmail.com 
-🔗 LinkedIn: 
+🔗 LinkedIn: https://www.linkedin.com/in/kumar-ketan-5456b531b/
 🐙 GitHub: - https://github.com/Kumar-Ketan
 Thanks for checking out this project!
