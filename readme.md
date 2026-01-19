@@ -97,9 +97,8 @@ Streamlit
 Customer Churn Dataset (Banking churn dataset)
 
 👤 Author
-
-Aditya Narayan Sahu
-MCA Graduate | Python | SQL | AI & ML Enthusiast
+Kumar Ketan
+Btech Graduate | Python | SQL | AI & ML Enthusiast
 
 ⭐ Acknowledgement
 
@@ -112,7 +111,7 @@ Thanks to open-source datasets and libraries that made this project possible.
 
 🚀 Connect With Me
 
-📧 Email: kketan6205@gmail.com 
+📧 Email: kketan6204@gmail.com 
 🔗 LinkedIn: https://www.linkedin.com/in/kumar-ketan-5456b531b/
 🐙 GitHub: - https://github.com/Kumar-Ketan
 Thanks for checking out this project!
