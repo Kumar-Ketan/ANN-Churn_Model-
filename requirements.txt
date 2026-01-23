@@ -3,4 +3,4 @@ altair>=5.2.0
 numpy
 pandas
 scikit-learn
-tensorflow==2.15.0
+tensorflow-cpu==2.15.0
