@@ -96,7 +96,7 @@ Streamlit
 
 Customer Churn Dataset (Banking churn dataset)
 
-👤 Author
+👤 Author:
 Kumar Ketan
 Btech Graduate | Python | SQL | AI & ML Enthusiast
 
